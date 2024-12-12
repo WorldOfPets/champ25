@@ -1,4 +1,4 @@
-package com.example.gitplusarchitecture.presentation
+package com.example.gitplusarchitecture.ui.activity
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge

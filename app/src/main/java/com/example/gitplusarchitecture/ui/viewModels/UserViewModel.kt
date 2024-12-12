@@ -1,4 +1,4 @@
-package com.example.gitplusarchitecture.domain.viewModels
+package com.example.gitplusarchitecture.ui.viewModels
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
